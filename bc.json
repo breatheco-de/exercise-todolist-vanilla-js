@@ -4,8 +4,8 @@
 	"slug" : "todolist-vanilla-js",
 	"status": "published",
 	"video-id": "eIRUpK3keWU",
-	"solution": "https://github.com/alesanchezr/exercise-todolist-vanilla-js/tree/solution",
-	"preview": "https://github.com/alesanchezr/exercise-todolist-vanilla-js/blob/master/preview.gif?raw=true",
+	"solution": "https://github.com/breatheco-de/exercise-todolist-vanilla-js/tree/solution",
+	"preview": "https://github.com/breatheco-de/exercise-todolist-vanilla-js/blob/master/preview.gif?raw=true",
 	"duration" : 16,
 	"description" : "Create a simple todo web app using vanilla js",
 	"talents": [
