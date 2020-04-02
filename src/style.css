@@ -1,0 +1,13 @@
+body{
+    background: #BDBDBD;
+}
+ul{
+    background: white;
+    border: 2px solid grey;
+    color: black;
+    margin: auto;
+    width: 400px;
+    padding: 0;
+}
+li{ list-style: none; border-bottom: 1px solid #BDBDBD; padding: 5px; }
+input{ width: 100%; border: 0; outline: none; }

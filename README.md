@@ -1,26 +1,24 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) TODO List with Vanilla JS
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+<p align="center">
+  <img height="200" src="https://projects.breatheco.de/json?slug=todo-list&preview" />
+</p>
 
-The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
+Create a TODO list application that allows users to add and delete tasks.
 
-[![How to open html/css preview of my project in gitpod](https://ucarecdn.com/573d0bef-9c8c-48dd-a6ef-401972dff96d/)](https://youtu.be/dfbDCMu_p-0)
+## 📝 Instructions
 
-## What to do next?
+- You app needs to look [like this](https://projects.breatheco.de/json?slug=todo-list&preview).
+- The tasks are added when the user press enter on the keyboard or you can have your own button.
+- The delete icon shows only when the task is hovered.
+- The use can add as many tasks as it wants.
+- When there is no tasks the list should "No tasks, add a task"
+- There is no way to update a task, the user will ahve to delete and create again.
 
-Create a `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running web-server using the following command:
-```sh
-$ pip3 install flask      (only the first time)
-$ python3 server.py
-```
+## 💡 Tips to finish this project
 
-- You can create as many HTML files you want
-- You can also create CSS files and you can import them onto your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+Do not go straight to the code, think first and have a viable strategy.
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+- What components will you create? Draw the project on a white paper and identify components.
+- Where are the stasks going to be stored in your component?
+- Read about [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c), you will need to understand the concept.
