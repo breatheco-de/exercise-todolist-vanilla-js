@@ -6,6 +6,7 @@ function printTodos(){
         console.log("Content", content);
         content += `<li>${item} <button onClick='remove("${item}")'>🗑</button></li>`;
     });
+    if(globalTodos.length === 0) content += "<li>No tasks added<li>";
     content = content + `<li><input type='text' onfocusout="addTodo(value)" /><li>`;
     ul.innerHTML = content;
 }
