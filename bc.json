@@ -8,6 +8,8 @@
 	"preview": "https://github.com/breatheco-de/exercise-todolist-vanilla-js/blob/master/preview.gif?raw=true",
 	"duration" : 16,
 	"description" : "Create a simple todo web app using vanilla js",
+	"technologies": ["javascript", "the dom","events","html","css","html/css"],
+	"difficulty": "easy",
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
 		{ "badge": "select-everything", "points": 5 },
