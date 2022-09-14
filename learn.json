@@ -25,5 +25,7 @@
 		{ "badge": "looper", "points": 5 },
 		{ "badge": "model-master", "points": 5 },
 		{ "badge": "control-freak", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
