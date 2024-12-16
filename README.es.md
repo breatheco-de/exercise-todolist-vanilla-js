@@ -14,7 +14,7 @@ Crea una aplicación de lista de tareas (TODO list) que permita a los usuarios a
 
 No clones este repositorio porque usaremos una plantilla diferente.  
 
-Recomendamos abrir la plantilla `vanillajs-hello`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
+Recomendamos abrir la plantilla `vanillajs boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
 
 Este es el repositorio que necesitas abrir o clonar:  
 
